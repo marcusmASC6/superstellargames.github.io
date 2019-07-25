@@ -1,0 +1,32 @@
+body{
+    background-color: dimgrey
+}
+#Menu-header {
+    width: auto;
+    text-align: center;
+    background-color: antiquewhite;
+}
+#Menu{
+    background-color: azure
+}
+h4{
+    text-align: center
+}
+#Games h4{
+    background-color: brown
+}
+#Games img{
+    align-content: center
+}
+
+#Logo{
+    display: flex;
+    justify-content: center;
+}
+
+#bible2{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
